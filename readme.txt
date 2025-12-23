@@ -14,3 +14,5 @@ World Solar Land-Use Efficiency and Land Transformation Dataset (2017 Base Year 
 (3) country_level_weighted_LUE_LT_calculation.m: Code to calculate country-level LUE and LT.
 (4) Country&Regional_results_summarization.xlsx: Results of country and regional level LUE and LT calculations.
 (5) Spatial_Join_original_data: Original Spatial join data required for running the code (without groundtruthing).
+[Note: Due to its large file size, this dataset is not included directly in the repository and is instead provided separately via the GitHub Release associated with this project.]
+
